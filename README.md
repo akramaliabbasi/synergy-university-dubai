@@ -10,6 +10,8 @@ SYNERGY UNIVERSITY DUBAI  https://www.figma.com
 And unfortunately, MOBILE and DESKTOP have some different objects on the landing page. Because of that, I made two separate HTMLization for both
 
 
-Its current custom is CSS + HTML and bootstrap because boots have been removed because, for using bootstrap 5, it needs 32 hours' work from scratch.
+Its current custom is CSS + HTML and bootstrap have been removed .
+
+And, for using bootstrap 5, it needs 32 hours' work from scratch once again.
 
 
